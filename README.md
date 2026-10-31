@@ -1,7 +1,9 @@
-Zuhause in Småland – Version 2.8 (Deutsch)
+# Zuhause in Småland – Version 3.0 (Deutsch)
 
-Drei ausführliche Blogartikel lassen sich über „Beitrag lesen“ öffnen. Blogfilter, Logo, Foto, YouTube, Instagram und Shop-Vorschau bleiben erhalten.
+Website für GitHub Pages. Startseite: `index.html`. Drei eigenständige Blogartikel mit Titelbildern und Standangaben. Logo und Foto sind im Paket.
 
-GitHub Pages: index.html, logo-zuhause-in-smaland.webp und toby-ela-smaaland.webp ins Repository hochladen. Die alte sv.html kann entfernt werden.
+## Veröffentlichung
+Alle HTML- und WebP-Dateien ins Stammverzeichnis des GitHub-Pages-Repositories hochladen, Änderungen committen. `sv.html` ist nicht Bestandteil dieses Pakets.
 
-Vor öffentlichem Launch: Impressum/Datenschutz vervollständigen, Bildrechte prüfen. Shop und Newsletter sind noch nicht aktiv.
+## Vor Veröffentlichung
+Blogtexte persönlich prüfen. Zwei Artikelbilder sind externe Unsplash-Symbolbilder, die später durch eigene Fotos ersetzt werden sollten. Impressum und Datenschutzerklärung sind Platzhalter. Newsletter und Shop sind nicht aktiviert. Keine echten Zahlungen oder Anmeldungen.
