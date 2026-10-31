@@ -1,7 +1,7 @@
-Zuhause in Småland – Website 2.2
+Zuhause in Småland – Version 2.8 (Deutsch)
 
-index.html und die beiden .webp-Dateien gemeinsam ins GitHub-Pages-Repository hochladen.
-Das Originalfoto von Toby & Ela ist als Hero-Hintergrund und im Abschnitt Über uns eingebunden. Dort wird das vollständige Hochformat inklusive Schriftzug gezeigt.
-Logo ist außerdem als Favicon eingebunden.
+Drei ausführliche Blogartikel lassen sich über „Beitrag lesen“ öffnen. Blogfilter, Logo, Foto, YouTube, Instagram und Shop-Vorschau bleiben erhalten.
 
-Hinweis: Shop und Newsletter sind weiterhin Demo-Vorschauen. Impressum und Datenschutz vor öffentlichem Start vervollständigen.
+GitHub Pages: index.html, logo-zuhause-in-smaland.webp und toby-ela-smaaland.webp ins Repository hochladen. Die alte sv.html kann entfernt werden.
+
+Vor öffentlichem Launch: Impressum/Datenschutz vervollständigen, Bildrechte prüfen. Shop und Newsletter sind noch nicht aktiv.
